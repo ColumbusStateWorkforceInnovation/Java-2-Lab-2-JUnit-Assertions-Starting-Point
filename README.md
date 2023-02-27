@@ -1,7 +1,7 @@
 # Java-2-Lab-2-JUnit-Assertions-Starting-Point
 
 ## Assignment Upload Directions:
-1. Download/Review the attached assignment document (DOCX or PDF):   Lab 1: Git and GitHub, Command Line Basics
+1. Download/Review the attached assignment document (DOCX or PDF):   Lab 2 - Unit Testing with JUnit.docx
 
 2. Complete the lab, outlined in the attached assignment document, THEN continue with step 3 to submit your assignment.
 
