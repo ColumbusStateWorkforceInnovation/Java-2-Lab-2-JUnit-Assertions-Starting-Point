@@ -12,4 +12,4 @@
   
 4. Remember to add the link to your **GitHub PR**, and the bundle file created in step 2 above, to this submission.
 
-5. When ready, click **UPLOAD** (in the Blackboard section), attach all applicable files and click **SUBMIT**.
+5. When ready, click **UPLOAD** (in the corresponding Blackboard section), attach all applicable files and click **SUBMIT**.
